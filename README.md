@@ -1,4 +1,5 @@
 # 📊 Project Tracking Dashboard – Tableau
+Interactive Tableau dashboard for monitoring project progress, workload distribution, and task timelines.
 
 ## Dashboard Preview
 ![Dashboard Preview](./Dashboard_Preview.png)

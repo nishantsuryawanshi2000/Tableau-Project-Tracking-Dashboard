@@ -1,7 +1,7 @@
 # 📊 Project Tracking Dashboard – Tableau
 
 ## Dashboard Preview
-![Project Tracking Dashboard](Dashboard_Preview.png)
+![Dashboard Preview](./Dashboard_Preview.png)
 
 ---
 

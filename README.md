@@ -5,7 +5,11 @@ Interactive Tableau dashboard for monitoring project progress, workload distribu
 ![Dashboard Preview](./Dashboard_Preview.png)
 
 ---
+### 🔗 Live Dashboard
+Explore the interactive dashboard on Tableau Public:
 
+https://public.tableau.com/app/profile/nishant.suryawanshi2349/viz/Project_Tracking_Dashboard_17730548081570/ProjectTrackingDashboard
+---
 ## 📌 Overview
 
 This project presents an **interactive Project Tracking Dashboard built using Tableau**.  
